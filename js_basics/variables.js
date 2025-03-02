@@ -43,7 +43,7 @@ console.table([accountId,accountName,mailId,password,accountState]);
 
 
 /*
-
+SUMMARY
 
 let vs const vs var
 -----------------------------------------------------------
