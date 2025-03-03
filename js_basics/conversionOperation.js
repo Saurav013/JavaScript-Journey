@@ -58,10 +58,17 @@ console.log(str1 + " " + str2);
 // console.log(1 + "1" + 2);
 // console.log(1 + 2 + "3");
 
+
+// Increment(++)
+
+// (i) Postfix
 let x = 3;
 const y = x++;
 console.log("x : ",x)
 console.log("y : ",y)
+
+
+// (ii) Prefix
 
 let a = 3;
 const b = ++a;
